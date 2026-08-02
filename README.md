@@ -8,8 +8,9 @@
 - My main areas of interest are **Data Science**, **Machine Learning**, **Natural Language Processing**, and applied ML solutions.
 - I develop practical projects involving data analysis, preprocessing, feature engineering, model training, evaluation, and interpretation.
 - I am particularly interested in applying NLP and machine learning methods to real-world product tasks.
+- I speak English at C1 level and hold JLPT N2 certification in Japanese.
 - I am open to interesting projects, research initiatives, and collaboration in Data Science and Machine Learning.
-
+  
 Feel free to contact me via  
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/pepepoopoon)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:bezuglova_elena@mail.ru)
